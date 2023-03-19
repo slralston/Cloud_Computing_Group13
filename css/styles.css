@@ -11,6 +11,10 @@ body {
     margin-bottom: 10px;
     }
 
+    p {
+        padding-bottom: 10px;
+    }
+
     h1, h3 {
         color: rgba(29, 26, 6, 0.893);
     }
