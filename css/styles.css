@@ -12,7 +12,11 @@ body {
     }
 
     h1, h3 {
-        color: rgba(169, 152, 19, 0.893);
+        color: rgba(29, 26, 6, 0.893);
+    }
+
+    h2 {
+        color: darkgoldenrod
     }
 
     img {
@@ -31,7 +35,7 @@ body {
     }
     
     header {
-        background-image: url("/images/treasuremap.webp");
+        background-image: url("/images/searching.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
